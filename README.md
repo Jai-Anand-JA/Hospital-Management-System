@@ -90,7 +90,6 @@ or using Gradle:
 
 1. Create a MySQL database:
 
-sql
 CREATE DATABASE hospital_db;
 
 ---
