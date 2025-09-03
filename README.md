@@ -1,4 +1,4 @@
-# Appointment Management System
+# Hospital Management System
 
 A Spring Boot REST API application for managing **appointments**, **doctors**, **patients**, and **bills**. This project uses **Spring Boot**, **Spring Data JPA**, and **MySQL**, allowing CRUD operations with a clean and professional service layer design.
 
